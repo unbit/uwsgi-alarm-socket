@@ -6,7 +6,7 @@ Just list the addresses (TCP or UNIX) to monitor, and a uWSGI alarm will be trig
 Installation
 ============
 
-The plugin is 2.x frienfly:
+The plugin is 2.x friendly:
 
 ```sh
 uwsgi --build-plugin https://github.com/unbit/uwsgi-alarm-socket
