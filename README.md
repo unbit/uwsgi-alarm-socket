@@ -32,3 +32,12 @@ alarm-socket = danger /var/run/foo.socket
 
 ...
 ```
+
+Options
+=======
+
+```--alarm-socket <alarm> <socket>```
+
+```--alarm-socket-freq <frequency>```
+
+```--alarm-socket-timeout <timeout>```
