@@ -41,3 +41,10 @@ Options
 ```--alarm-socket-freq <frequency>```
 
 ```--alarm-socket-timeout <timeout>```
+
+(both frequency and timeout are in seconds)
+
+Note
+====
+
+Each monitor will spawn a thread in the master process
